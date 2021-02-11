@@ -1,2 +1,2 @@
 # Coffee_Machine
-Coffee
+Coffee Machine 
